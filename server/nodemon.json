@@ -1,0 +1,6 @@
+{
+    "env":{
+        "Mongo_Atlas_pass": "456afnan",
+        "JWT_KEY": "secret"
+    }
+}
